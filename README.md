@@ -1,2 +1,2 @@
-# hnl
+# hns
 Heroku No Sleep
